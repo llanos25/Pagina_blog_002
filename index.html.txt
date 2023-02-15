@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mi Blog Personal</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<header>
+		<h1>Mi Blog Personal</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Inicio</a></li>
+				<li><a href="#">Acerca de</a></li>
+				<li><a href="#">Contacto</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<article>
+			<h2>Titulo del articulo</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin feugiat nunc ac velit suscipit, ac porttitor ex feugiat. Donec vestibulum nisl a convallis maximus. Aenean ut magna at nisi pretium fringilla. Sed eu justo ac quam rutrum tincidunt. Nunc ut mauris nec felis sodales consequat non non nibh. Etiam porttitor sapien enim, vel semper magna finibus et.</p>
+		</article>
+		<aside>
+			<h3>Sidebar</h3>
+			<ul>
+				<li><a href="#">Enlace 1</a></li>
+				<li><a href="#">Enlace 2</a></li>
+				<li><a href="#">Enlace 3</a></li>
+			</ul>
+		</aside>
+	</main>
+	<footer>
+		<p>Derechos Reservados 2023 - Mi Blog Personal</p>
+	</footer>
+</body>
+</html>
